@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MkTube/static/css/main.666d9824.chunk.css",
+    "main.js": "/MkTube/static/js/main.a5373223.chunk.js",
+    "main.js.map": "/MkTube/static/js/main.a5373223.chunk.js.map",
+    "runtime-main.js": "/MkTube/static/js/runtime-main.792a3dc0.js",
+    "runtime-main.js.map": "/MkTube/static/js/runtime-main.792a3dc0.js.map",
+    "static/js/2.c2bc3885.chunk.js": "/MkTube/static/js/2.c2bc3885.chunk.js",
+    "static/js/2.c2bc3885.chunk.js.map": "/MkTube/static/js/2.c2bc3885.chunk.js.map",
+    "index.html": "/MkTube/index.html",
+    "precache-manifest.21bd5e4aaa569f31d152818592621830.js": "/MkTube/precache-manifest.21bd5e4aaa569f31d152818592621830.js",
+    "service-worker.js": "/MkTube/service-worker.js",
+    "static/css/main.666d9824.chunk.css.map": "/MkTube/static/css/main.666d9824.chunk.css.map",
+    "static/js/2.c2bc3885.chunk.js.LICENSE": "/MkTube/static/js/2.c2bc3885.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.792a3dc0.js",
+    "static/js/2.c2bc3885.chunk.js",
+    "static/css/main.666d9824.chunk.css",
+    "static/js/main.a5373223.chunk.js"
+  ]
+}
